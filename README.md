@@ -26,7 +26,7 @@ Excel-Sales-Analysis-Dashboard/
 
 ## 📸 Dashboard Preview  
 
-[docs/project_overview.png](https://github.com/TalariRamesh/Excel-Sales-Analysis-Dashboard/blob/f73dffd16d39205589e1a8e889caf89e5a311105/Excel-Sales-Analysis-Dashboard/docs/project_overview.png)
+![image alt](Excel-Sales-Analysis-Dashboard/docs/project_overview.png)
 
 ---
 
