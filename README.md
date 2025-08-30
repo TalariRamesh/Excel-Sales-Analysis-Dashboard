@@ -10,24 +10,23 @@ It analyzes **Ferns and Petals Sales Data** to uncover trends, customer behavior
 Excel-Sales-Analysis-Dashboard/
 │
 ├── data/
-│ ├── customers.csv # Customer dataset
-│ ├── orders.csv # Orders dataset
-│ └── products.csv # Product details
+│   ├── customers.csv             # Customer dataset
+│   ├── orders.csv                # Orders dataset
+│   └── products.csv              # Product details
 │
 ├── docs/
-│ ├── project_overview.png # Dashboard screenshot
-│ └── sales_analysis_question.pdf # Problem statement
+│   ├── project_overview.png      # Dashboard screenshot
+│   └── sales_analysis_question.pdf  # Problem statement
 │
-├── Executive Summary.pdf       # Executive summary report  
-├── Final_Sales_Dashboard.xlsx  # Main Excel Dashboard  
-└── README.md                   # Documentation  
-
+├── Final_Sales_Dashboard.xlsx    # Main Excel Dashboard  
+├── Executive_Summary.pdf         # Executive summary report  
+└── README.md                     # Documentation  
 
 ---
 
 ## 📸 Dashboard Preview  
 
-![Sales Dashboard](docs/project_overview.png)  
+[docs/project_overview.png](https://github.com/TalariRamesh/Excel-Sales-Analysis-Dashboard/blob/f73dffd16d39205589e1a8e889caf89e5a311105/Excel-Sales-Analysis-Dashboard/docs/project_overview.png)
 
 ---
 
@@ -75,7 +74,7 @@ By combining **Power Query for ETL (Extract, Transform, Load)** and **Excel dash
 
 3. Interact with the slicers and filters to analyze revenue by occasions, categories, time, and cities.
 
-4. (Optional) Use Power Query Editor to refresh datasets with new data.
+4. Use Power Query Editor to refresh datasets with new data.
 
 👨‍💻 Author
 
