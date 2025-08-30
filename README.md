@@ -4,24 +4,25 @@ This project is an **interactive Excel Dashboard** built using **Power Query & E
 It analyzes **Ferns and Petals Sales Data** to uncover trends, customer behavior, and business performance.  
 
 ---
+## 📂 Project Structure
 
-## 📂 Project Structure  
-
+```
 Excel-Sales-Analysis-Dashboard/
 │
-├── data/
-│   ├── customers.csv             # Customer dataset
-│   ├── orders.csv                # Orders dataset
-│   └── products.csv              # Product details
+├── data/ # Raw datasets
+│ ├── customers.csv # Customer dataset
+│ ├── orders.csv # Orders dataset
+│ └── products.csv # Product details
 │
-├── docs/
-│   ├── project_overview.png      # Dashboard screenshot
-│   └── sales_analysis_question.pdf  # Problem statement
+├── docs/ # Documentation files
+│ ├── project_overview.png # Dashboard screenshot
+│ └── sales_analysis_question.pdf # Problem statement
 │
-├── Final_Sales_Dashboard.xlsx    # Main Excel Dashboard  
-├── Executive_Summary.pdf         # Executive summary report  
-└── README.md                     # Documentation  
+├── Final_Sales_Dashboard.xlsx # Main Excel Dashboard
+├── Executive_Summary.pdf # Executive summary report
+└── README.md # Documentation
 
+```
 ---
 
 ## 📸 Dashboard Preview  
@@ -61,7 +62,6 @@ By combining **Power Query for ETL (Extract, Transform, Load)** and **Excel dash
   - Conditional Formatting & KPIs  
 - **Datasets**: Customers, Orders, Products  
 
-[View Full Executive Summary (PDF)](docs/Executive Summary.pdf)
 
 ---
 
